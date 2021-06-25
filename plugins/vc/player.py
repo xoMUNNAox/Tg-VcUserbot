@@ -45,7 +45,7 @@ from pyrogram.types import Message
 from pytgcalls import GroupCall
 
 DELETE_DELAY = 8
-DURATION_AUTOPLAY_MIN = 10
+DURATION_AUTOPLAY_MIN = 25
 DURATION_PLAY_HOUR = 3
 
 USERBOT_HELP = f"""{emoji.LABEL}  **Common Commands**:
